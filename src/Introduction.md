@@ -17,3 +17,10 @@ ScriptEase offers a wide range of capabilities, including:
 - Cross-platform compatibility, ensuring seamless operation across different operating systems.
 
 In the following sections, we'll delve deeper into the overview of ScriptEase and explore its key concepts to help you leverage its full potential.
+
+## For rust it can work with rust playground
+```rust
+let mut name = String::new();
+std::io::stdin().read_line(&mut name).expect("failed to read line");
+println!("Hello {}!", name);
+```

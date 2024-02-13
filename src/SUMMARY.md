@@ -1,5 +1,5 @@
 # Summary
-
+[License](./License.md)
 - [Introduction](./Introduction.md)
   - [Overview](./Overview.md)
   - [Key Concepts](./Key-concepts.md)
@@ -23,5 +23,4 @@
 - [Contributing]()
   - [Reporting Bugs]()
   - [Contributing Code]()
-- [License]()
 
